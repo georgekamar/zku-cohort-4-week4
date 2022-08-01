@@ -55,3 +55,13 @@
     line-height: 1.5;
     font-size: 1.5rem;
 }
+
+.form {
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+}
+
+.alignText {
+  text-align: center;
+}
